@@ -345,7 +345,7 @@ p.para{
 }
 .grid1_of_3{
 	float:left;
-	width: 30.3333%;
+	width: 50%;
 	margin-left: 3.3333%;	
 }
 .grid1_of_3 h3{
@@ -366,7 +366,7 @@ p.para{
 	font-size: 0.8125em;
 	color: #555555;
 	line-height: 1.8em;
-	width: 80%;
+	width: 50%;
 	margin: 0 auto;
 }
 /* start span_of_3 */
